@@ -1,2 +1,5 @@
 *.xml
 *.txt
+
+files/logs/*.rb
+files/logs/*.log
